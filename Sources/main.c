@@ -14,7 +14,7 @@ paully
 	  int a;
 	  char m;
     i++;
-    i--;
+    i=i+1;
   }
 }
 
