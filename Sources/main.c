@@ -12,6 +12,7 @@ int main(void) {
   for (;;) {
 	  int a;
     i++;
+    i=i+1;
   }
 }
 
