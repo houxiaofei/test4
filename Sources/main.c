@@ -4,7 +4,6 @@
 
 int main(void) {
   volatile int i = 0;
-paully
 
   
 
