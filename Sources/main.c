@@ -5,6 +5,7 @@
 int main(void) {
   volatile int i = 0;
 paully
+
   
 
 
@@ -12,6 +13,7 @@ paully
   for (;;) {
 	  int a;
     i++;
+    i--;
   }
 }
 
