@@ -11,6 +11,7 @@ int main(void) {
   /* Loop forever */
   for (;;) {
 	  int a;
+	  char m;
     i++;
   }
 }
