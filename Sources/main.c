@@ -12,6 +12,7 @@ paully
   /* Loop forever */
   for (;;) {
 	  int a;
+	  char m;
     i++;
     i--;
   }
