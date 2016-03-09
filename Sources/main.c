@@ -4,7 +4,7 @@
 
 int main(void) {
   volatile int i = 0;
-
+  i++;
   
 
 
@@ -13,6 +13,7 @@ int main(void) {
 	  int a;
 	  char m;
     i++;
+    i--;
   }
 }
 
